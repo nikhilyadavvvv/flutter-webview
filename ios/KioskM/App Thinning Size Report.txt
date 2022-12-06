@@ -1,0 +1,57 @@
+
+App Thinning Size Report for All Variants of Runner
+
+Variant: kioskapp-03375DA9-445E-42AE-8909-A39B846E33D1.ipa
+Supported variant descriptors: [device: iPad2,6, os-version: 9.0], [device: iPad2,1, os-version: 9.0], [device: iPad2,3, os-version: 9.0], [device: iPad2,2, os-version: 9.0], [device: iPad2,4, os-version: 9.0], [device: iPad2,7, os-version: 9.0], and [device: iPad2,5, os-version: 9.0]
+App + On Demand Resources size: 9,1 MB compressed, 20,3 MB uncompressed
+App size: 9,1 MB compressed, 20,3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: kioskapp-04DD2978-B44E-4849-B165-AA07FEFD7E03.ipa
+Supported variant descriptors: [device: iPad8,5, os-version: 12.0], [device: iPad6,11, os-version: 12.0], [device: iPad8,3, os-version: 12.0], [device: iPad4,4, os-version: 12.0], [device: iPad4,2, os-version: 12.0], [device: iPad4,5, os-version: 12.0], [device: iPad7,5, os-version: 12.0], [device: iPad6,3, os-version: 12.0], [device: iPad4,8, os-version: 12.0], [device: iPad7,3, os-version: 12.0], [device: iPad7,4, os-version: 12.0], [device: iPad6,12, os-version: 12.0], [device: iPad7,2, os-version: 12.0], [device: iPad4,6, os-version: 12.0], [device: iPad4,3, os-version: 12.0], [device: iPad4,9, os-version: 12.0], [device: iPad5,3, os-version: 12.0], [device: iPad8,6, os-version: 12.0], [device: iPad4,1, os-version: 12.0], [device: iPad8,7, os-version: 12.0], [device: iPad6,8, os-version: 12.0], [device: iPad4,7, os-version: 12.0], [device: iPad8,2, os-version: 12.0], [device: iPad6,7, os-version: 12.0], [device: iPad8,4, os-version: 12.0], [device: iPad6,4, os-version: 12.0], [device: iPad8,8, os-version: 12.0], [device: iPad5,1, os-version: 12.0], [device: iPad8,1, os-version: 12.0], [device: iPad7,6, os-version: 12.0], [device: iPad7,1, os-version: 12.0], [device: iPad5,2, os-version: 12.0], and [device: iPad5,4, os-version: 12.0]
+App + On Demand Resources size: 8,8 MB compressed, 22,7 MB uncompressed
+App size: 8,8 MB compressed, 22,7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: kioskapp-0FF2F029-22D7-4629-B2D8-2ED1604C2224.ipa
+Supported variant descriptors: [device: iPad3,3, os-version: 9.0], [device: iPad3,5, os-version: 9.0], [device: iPad3,4, os-version: 9.0], [device: iPad3,6, os-version: 9.0], [device: iPad3,2, os-version: 9.0], and [device: iPad3,1, os-version: 9.0]
+App + On Demand Resources size: 9,1 MB compressed, 20,3 MB uncompressed
+App size: 9,1 MB compressed, 20,3 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: kioskapp-3FB658F1-883B-41A5-A742-F92A1578B026.ipa
+Supported variant descriptors: [device: iPad7,2, os-version: 12.2], [device: iPad4,1, os-version: 12.2], [device: iPad4,5, os-version: 12.2], [device: iPad6,8, os-version: 12.2], [device: iPad4,6, os-version: 12.2], [device: iPad4,8, os-version: 12.2], [device: iPad11,3, os-version: 12.2], [device: iPad4,3, os-version: 12.2], [device: iPad8,4, os-version: 12.2], [device: iPad7,5, os-version: 12.2], [device: iPad8,2, os-version: 12.2], [device: iPad4,4, os-version: 12.2], [device: iPad7,3, os-version: 12.2], [device: iPad8,8, os-version: 12.2], [device: iPad7,4, os-version: 12.2], [device: iPad8,1, os-version: 12.2], [device: iPad4,7, os-version: 12.2], [device: iPad8,5, os-version: 12.2], [device: iPad7,6, os-version: 12.2], [device: iPad11,1, os-version: 12.2], [device: iPad8,7, os-version: 12.2], [device: iPad11,2, os-version: 12.2], [device: iPad4,2, os-version: 12.2], [device: iPad4,9, os-version: 12.2], [device: iPad5,3, os-version: 12.2], [device: iPad7,1, os-version: 12.2], [device: iPad6,4, os-version: 12.2], [device: iPad6,7, os-version: 12.2], [device: iPad8,6, os-version: 12.2], [device: iPad8,3, os-version: 12.2], [device: iPad5,1, os-version: 12.2], [device: iPad5,4, os-version: 12.2], [device: iPad5,2, os-version: 12.2], [device: iPad6,3, os-version: 12.2], [device: iPad6,11, os-version: 12.2], [device: iPad6,12, os-version: 12.2], and [device: iPad11,4, os-version: 12.2]
+App + On Demand Resources size: 6,3 MB compressed, 15,2 MB uncompressed
+App size: 6,3 MB compressed, 15,2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: kioskapp-4D211DC1-3198-43EB-8C73-D431B5383A76.ipa
+Supported variant descriptors: [device: iPad7,4, os-version: 15.0], [device: iPad8,2, os-version: 15.0], [device: iPad7,6, os-version: 15.0], [device: iPad12,2, os-version: 15.0], [device: iPad11,2, os-version: 15.0], [device: iPad13,2, os-version: 15.0], [device: iPad8,5, os-version: 15.0], [device: iPad8,4, os-version: 15.0], [device: iPad14,2, os-version: 15.0], [device: iPad13,10, os-version: 15.0], [device: iPad5,4, os-version: 15.0], [device: iPad6,8, os-version: 15.0], [device: iPad5,1, os-version: 15.0], [device: iPad7,11, os-version: 15.0], [device: iPad7,5, os-version: 15.0], [device: iPad13,1, os-version: 15.0], [device: iPad7,1, os-version: 15.0], [device: iPad8,1, os-version: 15.0], [device: iPad8,8, os-version: 15.0], [device: iPad6,7, os-version: 15.0], [device: iPad6,4, os-version: 15.0], [device: iPad13,9, os-version: 15.0], [device: iPad8,6, os-version: 15.0], [device: iPad13,7, os-version: 15.0], [device: iPad8,11, os-version: 15.0], [device: iPad8,10, os-version: 15.0], [device: iPad14,1, os-version: 15.0], [device: iPad8,3, os-version: 15.0], [device: iPad13,4, os-version: 15.0], [device: iPad11,6, os-version: 15.0], [device: iPad11,4, os-version: 15.0], [device: iPad7,2, os-version: 15.0], [device: iPad5,2, os-version: 15.0], [device: iPad13,5, os-version: 15.0], [device: iPad8,12, os-version: 15.0], [device: iPad6,11, os-version: 15.0], [device: iPad12,1, os-version: 15.0], [device: iPad7,3, os-version: 15.0], [device: iPad11,7, os-version: 15.0], [device: iPad11,1, os-version: 15.0], [device: iPad5,3, os-version: 15.0], [device: iPad7,12, os-version: 15.0], [device: iPad13,6, os-version: 15.0], [device: iPad6,3, os-version: 15.0], [device: iPad8,7, os-version: 15.0], [device: MacFamily20,1, os-version: 15.0], [device: iPad13,11, os-version: 15.0], [device: iPad13,8, os-version: 15.0], [device: iPad6,12, os-version: 15.0], [device: iPad11,3, os-version: 15.0], and [device: iPad8,9, os-version: 15.0]
+App + On Demand Resources size: 6,3 MB compressed, 15,2 MB uncompressed
+App size: 6,3 MB compressed, 15,2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: kioskapp-805F68EA-0C3F-4717-BC46-5BFBADF070E3.ipa
+Supported variant descriptors: [device: iPad6,12, os-version: 13.0], [device: iPad13,1, os-version: 14.0], [device: iPad13,2, os-version: 14.0], [device: iPad7,2, os-version: 14.0], [device: iPad8,2, os-version: 13.0], [device: iPad5,3, os-version: 13.0], [device: iPad11,6, os-version: 14.0], [device: iPad8,9, os-version: 14.0], [device: iPad8,8, os-version: 14.0], [device: iPad13,11, os-version: 14.0], [device: iPad8,11, os-version: 13.0], [device: iPad8,5, os-version: 13.0], [device: iPad6,4, os-version: 13.0], [device: iPad11,3, os-version: 14.0], [device: iPad7,3, os-version: 13.0], [device: iPad7,4, os-version: 14.0], [device: iPad11,4, os-version: 14.0], [device: iPad8,11, os-version: 14.0], [device: iPad13,7, os-version: 14.0], [device: iPad8,12, os-version: 14.0], [device: iPad13,5, os-version: 14.0], [device: iPad8,10, os-version: 13.0], [device: iPad13,9, os-version: 14.0], [device: iPad7,3, os-version: 14.0], [device: iPad7,1, os-version: 14.0], [device: iPad8,5, os-version: 14.0], [device: iPad6,8, os-version: 14.0], [device: iPad8,10, os-version: 14.0], [device: iPad8,4, os-version: 14.0], [device: iPad5,1, os-version: 14.0], [device: iPad6,11, os-version: 14.0], [device: iPad7,5, os-version: 14.0], [device: iPad7,11, os-version: 13.0], [device: iPad8,8, os-version: 13.0], [device: iPad6,8, os-version: 13.0], [device: iPad7,1, os-version: 13.0], [device: iPad6,7, os-version: 14.0], [device: iPad7,12, os-version: 14.0], [device: iPad8,3, os-version: 13.0], [device: iPad11,3, os-version: 13.0], [device: iPad8,12, os-version: 13.0], [device: iPad8,3, os-version: 14.0], [device: iPad13,8, os-version: 14.0], [device: iPad7,6, os-version: 13.0], [device: iPad11,4, os-version: 13.0], [device: iPad5,4, os-version: 14.0], [device: iPad8,1, os-version: 13.0], [device: iPad13,10, os-version: 14.0], [device: iPad11,2, os-version: 13.0], [device: iPad8,7, os-version: 14.0], [device: iPad11,1, os-version: 14.0], [device: iPad13,6, os-version: 14.0], [device: iPad7,2, os-version: 13.0], [device: iPad8,2, os-version: 14.0], [device: iPad6,4, os-version: 14.0], [device: iPad6,12, os-version: 14.0], [device: iPad8,7, os-version: 13.0], [device: iPad8,4, os-version: 13.0], [device: iPad6,11, os-version: 13.0], [device: iPad6,3, os-version: 13.0], [device: iPad8,1, os-version: 14.0], [device: iPad6,3, os-version: 14.0], [device: iPad5,2, os-version: 14.0], [device: iPad11,2, os-version: 14.0], [device: iPad5,3, os-version: 14.0], [device: iPad6,7, os-version: 13.0], [device: iPad7,5, os-version: 13.0], [device: iPad8,6, os-version: 14.0], [device: iPad7,11, os-version: 14.0], [device: MacFamily20,1, os-version: 14.0], [device: iPad7,6, os-version: 14.0], [device: iPad5,1, os-version: 13.0], [device: iPad8,9, os-version: 13.0], [device: iPad5,2, os-version: 13.0], [device: iPad8,6, os-version: 13.0], [device: iPad11,7, os-version: 14.0], [device: iPad5,4, os-version: 13.0], [device: iPad7,4, os-version: 13.0], [device: iPad7,12, os-version: 13.0], [device: iPad13,4, os-version: 14.0], and [device: iPad11,1, os-version: 13.0]
+App + On Demand Resources size: 6,3 MB compressed, 15,2 MB uncompressed
+App size: 6,3 MB compressed, 15,2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: kioskapp-C3DBBBF3-A6E1-445A-B083-AB5DF00ADC76.ipa
+Supported variant descriptors: [device: iPad7,1, os-version: 10.0], [device: iPad6,11, os-version: 10.0], [device: iPad5,4, os-version: 9.0], [device: iPad4,8, os-version: 9.0], [device: iPad7,5, os-version: 11.0], [device: iPad4,9, os-version: 9.0], [device: iPad4,5, os-version: 9.0], [device: iPad6,3, os-version: 9.0], [device: iPad7,4, os-version: 10.0], [device: iPad5,1, os-version: 9.0], [device: iPad4,1, os-version: 9.0], [device: iPad5,2, os-version: 9.0], [device: iPad7,3, os-version: 10.0], [device: iPad4,4, os-version: 9.0], [device: iPad6,7, os-version: 9.0], [device: iPad7,6, os-version: 11.0], [device: iPad4,6, os-version: 9.0], [device: iPad4,7, os-version: 9.0], [device: iPad6,12, os-version: 10.0], [device: iPad4,3, os-version: 9.0], [device: iPad7,2, os-version: 10.0], [device: iPad6,4, os-version: 9.0], [device: iPad5,3, os-version: 9.0], [device: iPad4,2, os-version: 9.0], and [device: iPad6,8, os-version: 9.0]
+App + On Demand Resources size: 8,8 MB compressed, 22,7 MB uncompressed
+App size: 8,8 MB compressed, 22,7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: kioskapp.ipa
+Supported variant descriptors: Universal
+App + On Demand Resources size: 16,7 MB compressed, 40,8 MB uncompressed
+App size: 16,7 MB compressed, 40,8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
